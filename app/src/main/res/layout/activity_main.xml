@@ -13,7 +13,7 @@
         android:id="@+id/btn1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="NEW"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="108dp" />
 
@@ -29,13 +29,13 @@
         android:id="@+id/button9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="NEW 2" />
 
     <Button
         android:id="@+id/button10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="NEW 3" />
 
 
 </LinearLayout>
